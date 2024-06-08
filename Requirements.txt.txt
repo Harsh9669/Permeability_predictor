@@ -1,5 +1,5 @@
 numpy 
 pandas 
-Rdkit
+rdkit
 sklearn
 streamlit
